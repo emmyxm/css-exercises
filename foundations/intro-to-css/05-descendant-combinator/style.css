@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.container .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+.text {
+    color: blue;
+    background-color: goldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+}
