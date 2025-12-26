@@ -1,0 +1,4 @@
+we first have to work with the overall page
+we then have to work with each nested children and parent step by step from header down to footer
+we have to make each parent container carry it's children in its own way
+step by step
